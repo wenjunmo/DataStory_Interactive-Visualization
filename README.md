@@ -8,7 +8,7 @@ DataStory_Interactive Visualization_Projects
 
 定义数据可视化：
 信息可视化【Infographic（Information Graphic）】更注重艺术效果，它是具体化的、独立的、需要手工定制的。并没有任何一个可视化程序能够基于任一数据生成具体的图片并在上面标注解释性文字。
-数据可视化【data visualization】的概念则不同，它具有更广的普适性，同一类图表并不会因为数据不同而改变自己的展现形式，用户通过对数据进行可视化的应用来搭建报表。制作人员大多隶属于战略规划部门或者业务部门，例如数据分析师、运营人员等等。“网易有数”
+数据可视化【data visualization】的概念则不同，它具有更广的普适性，同一类图表并不会因为数据不同而改变自己的展现形式，用户通过对数据进行可视化的应用来搭建报表。制作人员大多隶属于战略规划部门或者业务部门，例如数据分析师、运营人员等等。“网易有数”https://youdata.163.com/
 
 Excel数据分析掌握的函数：
 日期函数：day,month,year,date,today,weekday,weeknum
@@ -22,11 +22,21 @@ Ptich DataStory：
 
 数据来源:http://www.hurun.net/CN/Home/Index 胡润百富
 
+数据是直接来搜索再来进行复制粘贴除非自己写爬虫来自动爬取
 
+[胡润研究院发布《2019 胡润全球独角兽榜》](http://www.hurun.net/CN/Article/Details?num=E7190250C866)
 
+[pythonanywhere](https://www.pythonanywhere.com/user/mwj/)
+[史上最简单的 Python Flask 框架搭建，手把手教你如何装逼](https://www.jianshu.com/p/70a0c097e537)
 
+[互联网数据分析能力的养成，需一份七周的提纲](http://www.woshipm.com/data-analysis/444009.html)
+[秦路直接学习从001开始](http://www.woshipm.com/u/159343/page/3)
+[世界银行数据的使用方式](https://data.worldbank.org.cn/about/get-started)
 
-
+[数据可视化的表pixelmap](https://pixelmap.amcharts.com/)
+[神器分享 | 制作酷炫地图 - Pixel Map Generator](https://www.jianshu.com/p/526ccacf8b5c)
+[https://www.amcharts.com/](https://www.amcharts.com/)
+[https://www.kaggle.com/](https://www.kaggle.com/)看看别人的项目是怎样子的，可以看看国家大型的竞赛项目是怎样子的，比如说天池等等很多，kaggle是学习好歹妈的地方，可以有学到大牛门的开发思路和思考的过程
 
 > 期末作业要求：
 数据产品或者是数据可视化项目的点子放在Github上面，将url填在腾讯文档上面，在12.15周日晚23d点之前提交
