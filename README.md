@@ -49,3 +49,7 @@ Ptich DataStory：
 互评异议1.8-10提出互评
 
 数据故事其实是可以来找到相关的数据来进行叙事接着来提及概念的解决办法，不只是将数据呈现再眼前可以是通过得出什么样子的结论来税负是不是会有更好的洞悉
+
+[采姑娘の大蘑菇](https://space.bilibili.com/12721139)
+[OpenCourseCatalog](https://github.com/wenhan-wu/OpenCourseCatalog)
+
