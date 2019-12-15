@@ -1,4 +1,4 @@
-# :squirrel: DataStory_Interactive-Visualization 
+# :horse_racing: DataStory_Interactive-Visualization 
 
 ## :hammer: 定义数据产品
 
