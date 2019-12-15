@@ -1,10 +1,4 @@
-<center> # :squirrel: DataStory_Interactive-Visualization </center>
-
-
-
-<center>DataStory_Interactive Visualization_Projects</center>
-
-<center>DataStory_Interactive Visualization_Projects</center>
+# :squirrel: DataStory_Interactive-Visualization 
 
 ## :hammer: 定义数据产品
 
