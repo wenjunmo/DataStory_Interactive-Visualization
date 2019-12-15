@@ -1,22 +1,18 @@
 # DataStory_Interactive-Visualization
 DataStory_Interactive Visualization_Projects
 
-定义数据产品：
-广义来看，数据产品是可以发挥数据价值去辅助用户更优的做决策（甚至行动）的一种产品形式。
-狭窄来看，淘宝数据魔方、百度指数、电商的 CRM 平台、各种公司内部的数据决策支持系统等都是数据产品
-但是要来用数据产品来讲好数据故事的难点就是在于怎么来把握一个核心 —— 找到用户的真正核心需求、痛点；这才是一个真正好的数据产品
+## 定义数据产品
 
-定义数据可视化：
-信息可视化【Infographic（Information Graphic）】更注重艺术效果，它是具体化的、独立的、需要手工定制的。并没有任何一个可视化程序能够基于任一数据生成具体的图片并在上面标注解释性文字。
-数据可视化【data visualization】的概念则不同，它具有更广的普适性，同一类图表并不会因为数据不同而改变自己的展现形式，用户通过对数据进行可视化的应用来搭建报表。制作人员大多隶属于战略规划部门或者业务部门，例如数据分析师、运营人员等等。“网易有数”https://youdata.163.com/
+- 广义来看，数据产品是可以发挥数据价值去 **辅助用户更优的做决策（甚至行动）** 的一种产品形式。
+- 狭窄来看，淘宝数据魔方、百度指数、电商的 CRM 平台、各种公司内部的数据决策支持系统等都是数据产品，是已经有成熟的后台来进行数据统计的可视化
+所以基于上面我认为要来用数据产品来讲好数据故事的难点就是在于怎么来把握一个核心，也就是找到用户的 **真正核心需求、痛点**
 
-Excel数据分析掌握的函数：
-日期函数：day,month,year,date,today,weekday,weeknum
- 数学函数：product,rand,round,sum,sumif,sumproduct
- 统计函数：large,small,max,min,rank,count,countif,average,averageif
- 查找和引用函数：choose,match,index,column,row,vlookup,hlookup,lookup,offset
- 文本函数：find,search,text,value,left,right,mid,len
- 逻辑函数：and,or,if,false,true
+## 定义数据可视化（区分开信息可视化）
+- 信息可视化(Infographic（Information Graphic）) **更注重艺术效果**，它是具体化的、独立的、需要手工定制的。并没有任何一个可视化程序能够基于任一数据生成具体的图片并在上面标注解释性文字
+- 数据可视化[data visualization] **具有更广的普适性**，同一类图表并不会因为数据不同而改变自己的展现形式，用户通过对数据进行可视化的应用来搭建报表。例如 [网易有数](https://youdata.163.com/)
+所以基于上面我认为数据可视化是需要在洞察用户核心需求痛点的前提上，使用数据分析的形式，将数据故事呈现在图表中，并且判断出相关性与其结论，给出合理的建设性意见和解决办法
+
+
 
 Ptich DataStory：
 
@@ -57,3 +53,14 @@ Ptich DataStory：
 + this will be highlighted in green
 - this will be highlighted in red
 
+
++ this will be highlighted in green
+- this will be highlighted in red
+
+Excel数据分析掌握的函数：
+日期函数：day,month,year,date,today,weekday,weeknum
+ 数学函数：product,rand,round,sum,sumif,sumproduct
+ 统计函数：large,small,max,min,rank,count,countif,average,averageif
+ 查找和引用函数：choose,match,index,column,row,vlookup,hlookup,lookup,offset
+ 文本函数：find,search,text,value,left,right,mid,len
+ 逻辑函数：and,or,if,false,true
