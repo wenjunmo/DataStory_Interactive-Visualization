@@ -49,7 +49,7 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 
 ## :checkered_flag: 产品目标及技术栈
 
-## :octocat: 开发人员:
+## :computer: 开发人员:
 - 前后端(基本：仅表)交互的代码实践及文档写作
 - Html文档结构及交互控件实现及交互变数实践
 
@@ -62,11 +62,6 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 
 :phone :telephone:
 ## :two_men_holding_hands: 合作伙伴
-
-
-
-
-
 
 
 
