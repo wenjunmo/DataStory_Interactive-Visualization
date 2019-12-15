@@ -46,26 +46,3 @@ DataStory_Interactive Visualization_Projects
 18级评分：交互功能能否实现最基本的数据传递+是否上传到Pythonanywhere(最终提交github和pythonanywhere网址)+交互功能的丰富性(加分项)
 17级评分：交互功能对于强化数据产品或者数据故事的程度+交互界面是否好看plotly、pyecharts、网页CSS等渠道实现都可+数据产品/数据故事是否有洞见+数据清洗和收集难度，数据集丰富程度
 互评异议1.8-10提出互评
-
-+ this will be highlighted in green
-- this will be highlighted in red
-
-数据故事其实是可以来找到相关的数据来进行叙事接着来提及概念的解决办法，不只是将数据呈现再眼前可以是通过得出什么样子的结论来税负是不是会有更好的洞悉
-
-[采姑娘の大蘑菇](https://space.bilibili.com/12721139)
-[OpenCourseCatalog](https://github.com/wenhan-wu/OpenCourseCatalog)
-
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-
-
-
-
-Excel数据分析掌握的函数：
-日期函数：day,month,year,date,today,weekday,weeknum
- 数学函数：product,rand,round,sum,sumif,sumproduct
- 统计函数：large,small,max,min,rank,count,countif,average,averageif
- 查找和引用函数：choose,match,index,column,row,vlookup,hlookup,lookup,offset
- 文本函数：find,search,text,value,left,right,mid,len
- 逻辑函数：and,or,if,false,true
