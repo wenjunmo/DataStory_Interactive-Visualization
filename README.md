@@ -1,5 +1,5 @@
 # :earth_americas: :earth_americas: :earth_americas: DataStory_Interactive-Visualization :earth_asia: :earth_asia: :earth_asia:
-DataStory_Interactive Visualization_Projects
+:waxing crescent moon symbol: DataStory_Interactive Visualization_Projects
 
 ## :hammer: 定义数据产品
 
