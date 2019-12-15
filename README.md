@@ -1,4 +1,4 @@
-# DataStory_Interactive-Visualization
+# :earth_americas: :earth_americas: :earth_americas: DataStory_Interactive-Visualization :earth_asia: :earth_asia: :earth_asia:
 DataStory_Interactive Visualization_Projects
 
 ## :hammer: 定义数据产品
@@ -10,7 +10,7 @@ DataStory_Interactive Visualization_Projects
 + 所以基于上面我认为要来用数据产品来讲好数据故事的难点就是在于怎么来把握一个核心，也就是找到用户的 **真正核心需求、痛点**
 ```
 
-## 定义数据可视化
+## :wrench: 定义数据可视化
 - 信息可视化(Infographic（Information Graphic）) **更注重艺术效果**，它是具体化的、独立的、需要手工定制的。并没有任何一个可视化程序能够基于任一数据生成具体的图片并在上面标注解释性文字
 - 数据可视化[data visualization] **具有更广的普适性**，同一类图表并不会因为数据不同而改变自己的展现形式，用户通过对数据进行可视化的应用来搭建报表。例如 [网易有数](https://youdata.163.com/)
 
