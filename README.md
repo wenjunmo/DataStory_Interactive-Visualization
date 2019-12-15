@@ -1,11 +1,11 @@
 # :earth_americas: :earth_americas: :earth_americas: DataStory_Interactive-Visualization :earth_asia: :earth_asia: :earth_asia:
-:waxing crescent moon symbol: DataStory_Interactive Visualization_Projects
+<center>DataStory_Interactive Visualization_Projects</center>
 
 ## :hammer: 定义数据产品
 
 - 广义来看，数据产品是可以发挥数据价值去 **辅助用户更优的做决策（甚至行动）** 的一种产品形式。
 - 狭窄来看，淘宝数据魔方、百度指数、电商的 CRM 平台、各种公司内部的数据决策支持系统等都是数据产品，是已经有成熟的后台来进行数据统计的可视化
-
+d
 ```diff
 + 所以基于上面我认为要来用数据产品来讲好数据故事的难点就是在于怎么来把握一个核心，也就是找到用户的 **真正核心需求、痛点**
 ```
