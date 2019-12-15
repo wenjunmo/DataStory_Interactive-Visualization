@@ -1,4 +1,4 @@
-# :horse_racing: DataStory_Interactive-Visualization 
+# :whale2: DataStory_Interactive-Visualization 
 
 ## :hammer: 定义数据产品
 
