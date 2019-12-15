@@ -44,6 +44,9 @@ Ptich DataStory：
 17级评分：交互功能对于强化数据产品或者数据故事的程度+交互界面是否好看plotly、pyecharts、网页CSS等渠道实现都可+数据产品/数据故事是否有洞见+数据清洗和收集难度，数据集丰富程度
 互评异议1.8-10提出互评
 
++ this will be highlighted in green
+- this will be highlighted in red
+
 数据故事其实是可以来找到相关的数据来进行叙事接着来提及概念的解决办法，不只是将数据呈现再眼前可以是通过得出什么样子的结论来税负是不是会有更好的洞悉
 
 [采姑娘の大蘑菇](https://space.bilibili.com/12721139)
@@ -54,8 +57,7 @@ Ptich DataStory：
 - this will be highlighted in red
 
 
-+ this will be highlighted in green
-- this will be highlighted in red
+
 
 Excel数据分析掌握的函数：
 日期函数：day,month,year,date,today,weekday,weeknum
