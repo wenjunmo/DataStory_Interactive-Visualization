@@ -8,6 +8,7 @@ DataStory_Interactive Visualization_Projects
 
 ```diff
 + 所以基于上面我认为要来用数据产品来讲好数据故事的难点就是在于怎么来把握一个核心，也就是找到用户的 **真正核心需求、痛点**
+```
 
 ## 定义数据可视化（区分开信息可视化）
 - 信息可视化(Infographic（Information Graphic）) **更注重艺术效果**，它是具体化的、独立的、需要手工定制的。并没有任何一个可视化程序能够基于任一数据生成具体的图片并在上面标注解释性文字
@@ -15,7 +16,7 @@ DataStory_Interactive Visualization_Projects
 
 ```diff
 - 所以基于上面我认为数据可视化是需要在洞察用户核心需求痛点的前提上，使用数据分析的形式，将数据故事呈现在图表中，并且判断出相关性与其结论，给出合理的建设性意见和解决办法
-
+```
 
 
 Ptich DataStory：
