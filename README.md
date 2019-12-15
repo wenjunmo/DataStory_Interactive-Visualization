@@ -22,13 +22,17 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 ## :bulb: Ptich DataStory
 
 - 价值主张:分析世界500强企业中美经济结构的差异化现象，结合数据分析图标展示差异化因素，并在最小可行性推断未来新兴科技发展方向
-- 数据来源:[2019 年财富世界 500 强公司排行榜](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)
+- 数据来源: [2019 年财富世界 500 强公司排行榜](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)
 
 
 ## :calendar: 产品进度
 
-:ballot_box_with_check: 框框勾
-:black_square_button: 未勾
+:ballot_box_with_check: 19.12.15-19.12.18 组建团队
+- < 15Days Pitch DataStory Product in PRD-MD to GitHub 
+- < 15Days Show python ability in Jekyll to GitHub
+
+
+- :black_square_button: 
 
 ## :warning: 评分要求
 
@@ -43,7 +47,22 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 17级评分：交互功能对于强化数据产品或者数据故事的程度+交互界面是否好看plotly、pyecharts、网页CSS等渠道实现都可+数据产品/数据故事是否有洞见+数据清洗和收集难度，数据集丰富程度
 互评异议1.8-10提出互评
 
-## :checkered_flag: 产品目标
+## :checkered_flag: 产品目标及技术栈
+
+## :octocat: 开发人员:
+- 前后端(基本：仅表)交互的代码实践及文档写作
+- Html文档结构及交互控件实现及交互变数实践
+
+### :bar_chart: 产品经理/交互设计师：
+- 最小可行性的交互式数据可视化产品设计
+- 完成PRD及至少2份成功交互且交互意义相关联（以超链接活交互达成）的交互式界面(至少1份含地图)的产品原型或完整产品，包括使用Pyecharts/Plotly模块等整合外观样式及数据科学代码实践，外观样式前端CSS及JS库的调用实践(Bootstrap)
+
+ 
+
+
+:phone :telephone:
+## :two_men_holding_hands: 合作伙伴
+
 
 
 
