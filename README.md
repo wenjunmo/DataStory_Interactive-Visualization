@@ -21,21 +21,26 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 
 ## :bulb: Ptich DataStory
 
-- 价值主张:分析世界500强企业中美经济结构的差异化现象，结合数据分析图标展示差异化因素，并在最小可行性推断未来新兴科技发展方向
-  - 原因
-- 数据来源: [2019 年财富世界 500 强公司排行榜](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)
+- 价值主张:分析 **世界500强企业中美经济结构的差异化** 现象，结合数据分析图表 **展示差异化因素**，并在最小可行性 **推断未来新兴科技发展方向**
+    - 数据故事：世界前500强公司的上班名单中中美占比较多且与其他国家不在同一个档次上具有 **鲜明的可比性**，并通过逐年的发展趋势可预测未来新兴部分技术的发展前景
+    - 数据产品：使用**交互可视化工具 Plotly/Pyecharts，搭建 Flask 框架实现可互动交互界面**，并且呈现数据故事引导用户对数据进行思考
+    
+- 数据来源: 
+    - [2019 年财富世界 500 强公司排行榜](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)
+    - [2019 年世界 500 强 129 家中国上榜公司完整名单](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339537.htm)
+    - [胡润研究院发布《2019 胡润全球独角兽榜》](http://www.hurun.net/CN/Article/Details?num=E7190250C866)
 
 
 ## :calendar: 产品进度
 
-- :ballot_box_with_check: 19.12.13-12.15 将数据产品或者是数据可视化项目的点子放在Github上面，将url填在腾讯文档上面，在12.15周日晚23点之前提交
-- :ballot_box_with_check: 19.12.15-19.12.18 组建团队
+- :ballot_box_with_check: 19.12.13-**19.12.15** 将 **数据产品或者是数据可视化项目的点子放在Github上面**，将url填在腾讯文档上面，在12.15周日晚23点之前提交
+- :ballot_box_with_check: 19.12.15-19.12.18 **组建团队**
     - < 15Days Pitch DataStory Product in PRD-MD to GitHub 
     - < 15Days Show python ability in Jekyll to GitHub
-- :black_square_button:19.12.18-19.1.05 19days is enough but we should in advance to spend time in holiday
+- :black_square_button:19.12.18-**19.1.05** 19days is enough but we should in advance to spend time in holiday
     - 12.18-12.22 实现见评分要求
-    - 12.23-12.29 over 最终提交各自负责的入口url进行项目及文档提交
-- :black_square_button:19.1.06-19.1.07 互评阶段，要求见评分要求
+    - 12.23-**12.29 over** 最终提交各自负责的入口url进行项目及文档提交
+- :black_square_button:19.1.06-19.**1.07 互评阶段**，要求见评分要求
 
 > 共同作品要求：
 - 自己提供数据，但数据量>250个
@@ -47,19 +52,19 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 ## :warning: 评分要求
 
 18级评分点：
-- 实现交互功能(Html表，至少做到表的交互没图假设下)
-- 实现部署在 pythonanywhere 可用
+- 实现 **交互功能** (Html表，至少做到表的交互没图假设下)
+- 实现 **部署在 pythonanywhere 可用
 - 基本README.md技术文档总结项目说明
-  - 代码GitHub URL
-  - pythonanywhere url
-  - 数据传输描述
-- 基本交互功能Html控件使用丰富(加分项)
+  - 代码 **GitHub URL**
+  - **pythonanywhere url**
+  - **数据传输描述**
+- 基本交互功能 **Html控件使用丰富**(加分项)
 
 17级评分点：
-- 数据清洗和收集难度，数据集丰富程度
-- 交互功能对于强化数据产品或者数据故事表现力的程度
-- 交互界面美观得体(使用Pyecharts、Plotly、CSS包含在内)
-- 整体数据产品/数据故事是否有洞见，给用户交互产生洞见的引导及可能性
+- **数据清洗和收集难度，数据集丰富程度**
+- **交互功能**对于强化数据产品或者数据故事**表现力的程度**
+- 交互界面 **美观得体**(使用Pyecharts、Plotly、CSS包含在内)
+- 整体数据产品/数据故事是否**有洞见**，给用户交互产生洞见的引导及可能性
 
 简述之：
 - 共同要求：hurun数据/自己提供数据-国家统计局+H5页面设计包含CSS样式+pythonanywhere.com，是否有说服力和数据洞见-数据库,Flask
@@ -96,6 +101,6 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 - [福布斯排行榜](http://www.forbeschina.com/lists)
 - [财富](http://www.fortunechina.com/fortune500/node_65.htm)
 - [2019 年财富世界 500 强排行榜](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339535.htm)
-- [2019 年世界 500 强 129 家中国上榜公司完整名单](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339537.htm)
+
 
 --- OVER ---
