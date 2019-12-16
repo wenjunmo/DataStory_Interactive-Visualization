@@ -33,19 +33,19 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 
 ## :calendar: 产品进度
 
-- :ballot_box_with_check: 19.12.13-**19.12.15** 将 **数据产品或者是数据可视化项目的点子放在Github上面**，将url填在腾讯文档上面，在12.15周日晚23点之前提交
-- :ballot_box_with_check: 19.12.15-19.12.18 **组建团队**
+- :ballot_box_with_check: 19.12.13-**19.12.15 数据产品或者是数据可视化项目的点子放在Github上面**，将url填在腾讯文档上面，在12.15周日晚23点之前提交
+- :ballot_box_with_check: 19.12.15-**19.12.18 组建团队**
     - < 15Days Pitch DataStory Product in PRD-MD to GitHub 
     - < 15Days Show python ability in Jekyll to GitHub
-- :black_square_button:19.12.18-**19.1.05** 19days is enough but we should in advance to spend time in holiday
+- :black_square_button:19.12.18-**19.1.05 提交最终 url** 19days is enough but we should in advance to spend time in holiday
     - 12.18-12.22 实现见评分要求
-    - 12.23-**12.29 over** 最终提交各自负责的入口url进行项目及文档提交
-- :black_square_button:19.1.06-19.**1.07 互评阶段**，要求见评分要求
+    - 12.23-**12.29 结束最终 url 放假** 最终提交各自负责的入口url进行项目及文档提交
+- :black_square_button:19.1.06-**19.1.07 互评阶段**，要求见评分要求
 
 > 共同作品要求：
-- 自己提供数据，但数据量>250个
-- Html5界面设计包含CSS样式
-- 必须部署在 pythonanywhere 并可用
+    - 自己提供数据，但数据量>250个
+    - Html5界面设计包含CSS样式
+    - 必须部署在 pythonanywhere 并可用
 
 - :black_square_button:19.1.08-19.1.10 互评公示及异议，要求见评分要求
 
@@ -94,9 +94,9 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 
 链接：
 
-- [胡润研究院发布《2019 胡润全球独角兽榜》](http://www.hurun.net/CN/Article/Details?num=E7190250C866)直接复制粘贴Excel数据表里面
-- [胡润研究院发布《2019 世茂西山龙胤・胡润全球富豪榜》](http://www.hurun.net/CN/Article/Details?num=0C89B7A101E0)文末有榜单可下载
-- [18 第二季度胡润大中华区独角兽指数](https://www.hurun.net/CN/HuList/Unilist?num=ZUDO23612EaU)数据比较旧
+- [胡润研究院发布《2019 胡润全球独角兽榜》](http://www.hurun.net/CN/Article/Details?num=E7190250C866) 直接复制粘贴Excel数据表里面
+- [胡润研究院发布《2019 世茂西山龙胤・胡润全球富豪榜》](http://www.hurun.net/CN/Article/Details?num=0C89B7A101E0) 文末有榜单可下载
+- [18 第二季度胡润大中华区独角兽指数](https://www.hurun.net/CN/HuList/Unilist?num=ZUDO23612EaU) 数据比较旧
 - [胡润研究院发布《2019 LEXUS 雷克萨斯・胡润百富榜》](https://www.hurun.net/CN/Article/Details?num=DB69EC68030F)没有时间和地点比较难做数据化
 - [福布斯排行榜](http://www.forbeschina.com/lists)
 - [财富](http://www.fortunechina.com/fortune500/node_65.htm)
