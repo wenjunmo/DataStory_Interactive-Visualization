@@ -34,7 +34,7 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 ## :calendar: 产品进度
 
 - :ballot_box_with_check: 19.12.13-**19.12.15 数据产品或者是数据可视化项目的点子放在Github上面**，将url填在腾讯文档上面，在12.15周日晚23点之前提交
-- :ballot_box_with_check: 19.12.15-**19.12.18 组建团队**
+- :black_square_button: 19.12.15-**19.12.18 组建团队**
     - < 15Days Pitch DataStory Product in PRD-MD to GitHub 
     - < 15Days Show python ability in Jekyll to GitHub
 - :black_square_button:19.12.18-**19.1.05 提交最终 url** 19days is enough but we should in advance to spend time in holiday
@@ -43,9 +43,9 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 - :black_square_button:19.1.06-**19.1.07 互评阶段**，要求见评分要求
 
 > 共同作品要求：
-    - 自己提供数据，但数据量>250个
-    - Html5界面设计包含CSS样式
-    - 必须部署在 pythonanywhere 并可用
+1.自己提供数据，但数据量>250个
+2.Html5界面设计包含CSS样式
+3.必须部署在 pythonanywhere 并可用
 
 - :black_square_button:19.1.08-19.1.10 互评公示及异议，要求见评分要求
 
