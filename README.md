@@ -43,9 +43,9 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 - :black_square_button:19.1.06-**19.1.07 互评阶段**，要求见评分要求
 
 > 共同作品要求：
-1.自己提供数据，但数据量>250个
-2.Html5界面设计包含CSS样式
-3.必须部署在 pythonanywhere 并可用
+1. 自己提供数据，但数据量>250个
+2. Html5界面设计包含CSS样式
+3. 必须部署在 pythonanywhere 并可用
 
 - :black_square_button:19.1.08-19.1.10 互评公示及异议，要求见评分要求
 
