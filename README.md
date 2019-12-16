@@ -27,6 +27,7 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 
 
 ## :calendar: 产品进度
+
 :ballot_box_with_check: 19.12.13-12.15 将数据产品或者是数据可视化项目的点子放在Github上面，将url填在腾讯文档上面，在12.15周日晚23点之前提交
 :ballot_box_with_check: 19.12.15-19.12.18 组建团队
 - < 15Days Pitch DataStory Product in PRD-MD to GitHub 
@@ -66,15 +67,18 @@ Seeking True from Fact 网新人，有态度，不认输，不头秃
 ## :checkered_flag: 产品目标及技术栈
 
 ## :computer: 开发人员:
+
 - 前后端(基本：仅表)交互的代码实践及文档写作
 - Html文档结构及交互控件实现及交互变数实践
 
 ### :bar_chart: 产品经理/交互设计师：
+
 - 最小可行性的交互式数据可视化产品设计
 - 完成PRD及至少2份成功交互且交互意义相关联（以超链接活交互达成）的交互式界面(至少1份含地图)的产品原型或完整产品，包括使用Pyecharts/Plotly模块等整合外观样式及数据科学代码实践，外观样式前端CSS及JS库的调用实践(Bootstrap)
 
 
 ## :two_men_holding_hands: 合作伙伴
+
 :raising_hand: 有担当，共进退
 :ok_woman: 知道如何实现 Flask ，成功独立搭建过 Flask 框架，可以一起回顾，熟悉 html、css 更好，懂得如何处理数据链接和前后端响应
 :person_with_pouting_face: 对产品负责，且有自己想法
