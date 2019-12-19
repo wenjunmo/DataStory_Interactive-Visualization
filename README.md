@@ -48,7 +48,7 @@
     - < 15Days Show python ability in Jekyll to GitHub
 - :black_square_button:19.12.18-**19.1.05 提交最终 url** 19days is enough but we should in advance to spend time in holiday
     - 12.18-12.22 实现见评分要求
-    - 12.23-**12.29 结束最终 url 放假** 最终提交各自负责的入口url进行项目及文档提交
+    - 12.23-**1.05 结束最终 url 放假** 最终提交各自负责的入口url进行项目及文档提交
 - :black_square_button:19.1.06-**19.1.07 互评阶段**，要求见评分要求
 
 > 共同作品要求：
