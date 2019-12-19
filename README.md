@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>whale2: DataStory_Interactive-Visualization :whale2:</h1>
+  <h1>:whale2: DataStory_Interactive-Visualization :whale2:</h1>
   <p>Seeking True from Fact 网新人，有态度，不认输，不头秃</p>
 </div>
 
 标题居中代码如下，因为md是支持html语言的
 ```
 <div align="center">
-  <h1>whale2: DataStory_Interactive-Visualization :whale2:</h1>
+  <h1>:whale2: DataStory_Interactive-Visualization :whale2:</h1>
   <p>Seeking True from Fact 网新人，有态度，不认输，不头秃</p>
 </div>
 ```
