@@ -43,7 +43,7 @@
 ## :calendar: 产品进度
 
 - :ballot_box_with_check: 19.12.13-**19.12.15 数据产品或者是数据可视化项目的点子放在Github上面**，将url填在腾讯文档上面，在12.15周日晚23点之前提交
-- :black_square_button: 19.12.15-**19.12.18 组建团队**
+- :ballot_box_with_check: 19.12.15-**19.12.18 组建团队-组队成功：莫文俊 刘瑜鹏 刘宇**
     - < 15Days Pitch DataStory Product in PRD-MD to GitHub 
     - < 15Days Show python ability in Jekyll to GitHub
 - :black_square_button:19.12.18-**19.1.05 提交最终 url** 19days is enough but we should in advance to spend time in holiday
