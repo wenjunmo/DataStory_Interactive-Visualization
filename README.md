@@ -39,6 +39,12 @@
     - [2019 年世界 500 强 129 家中国上榜公司完整名单](http://www.fortunechina.com/fortune500/c/2019-07/22/content_339537.htm)
     - [胡润研究院发布《2019 胡润全球独角兽榜》](http://www.hurun.net/CN/Article/Details?num=E7190250C866)
 
+## 产品文档
+    - ipynb 代码实时预览及信息可视化展示界面（包含地图与非地图制作交互） [http://nfunm065.gitee.io/datastory_interactive-visualization/](http://nfunm065.gitee.io/datastory_interactive-visualization/)
+    - ipynb 代码包下载 [https://gitee.com/NFUNM065/DataStory_Interactive-Visualization/tree/master](https://gitee.com/NFUNM065/DataStory_Interactive-Visualization/tree/master)
+    - pythonanywhere 1 全球500强筛选对比交互及结论 [http://crayon3.pythonanywhere.com/](http://crayon3.pythonanywhere.com/)
+    - pythonanywhere 2 中美500强筛选对比交互及结论 [http://liuyu18.pythonanywhere.com/](http://liuyu18.pythonanywhere.com/)
+
 
 ## :calendar: 产品进度
 
